@@ -1,6 +1,6 @@
 # Miguel Ângelo Freitas
 
-Hi! 👋😊 I'm Miguel Ângelo and I'm a student at University of Minho, where I'm getting a degree in Maths and Computer Science 👨‍💻.
+Hi! 👋😊 I'm Miguel Ângelo and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
 
 ## About me 👀
 
