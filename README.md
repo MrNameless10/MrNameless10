@@ -2,7 +2,7 @@
 
 Hi! 👋😊 I'm Miguel Ângelo and I'm a student at University of Minho, where I'm getting a degree in Maths and Computer Science 👨‍💻.
 
-### About me 👀
+## About me 👀
 
 I was born and raised in Caldas das Taipas 🇵🇹, a small village in guimarães, where I currently live. I study in Braga @ Uminho.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=mrnameless10&count_private=true)
 
-### How to reach me 📫
+## How to reach me 📫
 * E-mail : miguel.angelo.freitas@outlook.pt
 * Instagram : [@miguelangelofreitass](https://www.instagram.com/miguelangelofreitass "@miguelangelofreitass")
 * WebSite : [miguelfreitas.online](https://miguelfreitas.online/ "Miguel Freitas Website")
