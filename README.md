@@ -10,7 +10,7 @@ I also have a band called "GASPEA" where I'm the drummer, you can follow our wor
 
 I love music 🎵 , chess ♟️ and pizza 🍕(Like ninja turtle 🐱‍👤), among other things. I'm a bit of an introvert, during my alone time I like to play drums, play some video games 🎮, study some html.
 
-# I'm director of development department NECC @ Uminho ![NECC logo](https://cdn.discordapp.com/avatars/782294405704581160/1cbe60e471f3c9cc4979479ca2ae5e24.png?size=64)
+## I'm director of development department NECC @ Uminho ![NECC logo](https://cdn.discordapp.com/avatars/782294405704581160/1cbe60e471f3c9cc4979479ca2ae5e24.png?size=64)
 
 
 Núcleo de Estudantes de Ciências da Computação [NECC] is a group of students, volunteers, who represent and help all students of the Computer Science Degree course at the University of Minho. I'm trying to create a better community and doing my best to help new students facing new problems, so I decided to join [NECC] to help them and improve my self skills, like learning code, learning what type of code do you use in real life, trying to know what do you need to be a good Computer Science worker 🤖. I'm developer at [@NECC](https://github.com/NECC), you can join our community [HERE](http://bit.ly/DiscordLCC).
@@ -31,6 +31,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## My college projects and solved exercises 🎓
+### 1st year - 1st semester
+* Programação Funcional (Functional Programming) - Haskell - Exercises
+### 1st year - 2nd semester
+* Programação Imperativa (Imperative Programming) - C - Exercises
+* Laboratórios de Informática II - C - Exercises - [Project](https://github.com/MrNameless10/LA1-PL2-G07)
+
+### 2nd year - 2nd semester
+
+
+# My programming skills 💻
+* Haskell
+* C
+* HTML/CSS
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=mrnameless10&count_private=true)
 
 ## How to reach me 📫
@@ -38,3 +56,8 @@ Here are some ideas to get you started:
 * Instagram : [@miguelangelofreitass](https://www.instagram.com/miguelangelofreitass "@miguelangelofreitass")
 * WebSite : [miguelfreitas.online](https://miguelfreitas.online/ "Miguel Freitas Website")
 * Twitter : [@MikeFreitass](https://twitter.com/MikeFreitass "@MikeFreitass")
+
+```diff
+@@ "It's all talk until the code runs" - Ward Cunningham @@
+```
+
