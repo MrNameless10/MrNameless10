@@ -12,7 +12,6 @@ I love music 🎵 , chess ♟️ and pizza 🍕(Like ninja turtle 🐱‍👤), 
 
 ## I'm director of development department NECC @ Uminho ![NECC logo](https://cdn.discordapp.com/avatars/782294405704581160/1cbe60e471f3c9cc4979479ca2ae5e24.png?size=64)
 
-
 Núcleo de Estudantes de Ciências da Computação [NECC] is a group of students, volunteers, who represent and help all students of the Computer Science Degree course at the University of Minho. I'm trying to create a better community and doing my best to help new students facing new problems, so I decided to join [NECC] to help them and improve my self skills, like learning code, learning what type of code do you use in real life, trying to know what do you need to be a good Computer Science worker 🤖. I'm developer at [@NECC](https://github.com/NECC), you can join our community [HERE](http://bit.ly/DiscordLCC).
 
 
@@ -47,9 +46,18 @@ Here are some ideas to get you started:
 * C
 * HTML/CSS
 
-
-
 ![](https://github-readme-stats.vercel.app/api?username=mrnameless10&count_private=true)
+
+
+## My other projects 
+* Music Projects
+  * GASPEA - [Ser Quem Sou](https://www.youtube.com/watch?v=kGMe_rXcDOU&ab_channel=GASPEA)
+  * The Scoundrels (Next Door) - [No Offence](https://youtu.be/4XcOEYNk7R4)
+* Code Projects
+  * My WebSite
+* Volunteering
+  * [Em Busca de Sorrisos](https://www.facebook.com/embuscadesorrisosesct/)
+
 
 ## How to reach me 📫
 * E-mail : miguel.angelo.freitas@outlook.pt
