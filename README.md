@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ## My college projects and solved exercises 🎓
-I really recommend to follow [@quantik-git](https://github.com/quantik-git) on github
+I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho), [@guedes](https://github.com/FrancesinhaMan), [@Carricossauro](https://github.com/Carricossauro), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan) on github
 ### 1st year - 1st semester
 * Programação Funcional (Functional Programming) - Haskell - Exercises
 ### 1st year - 2nd semester
