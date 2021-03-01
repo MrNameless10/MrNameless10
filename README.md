@@ -43,9 +43,14 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 
 
 # My programming skills 💻
-* Haskell
-* C
-* HTML/CSS
+
+![](https://img.shields.io/badge/Code-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=blue)
 
 ![](https://github-readme-stats.vercel.app/api?username=mrnameless10&count_private=true)
 
