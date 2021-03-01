@@ -1,4 +1,4 @@
-# Miguel Ângelo Freitas
+# Miguel Ângelo Freitas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hi! 👋😊 I'm Miguel Ângelo and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
 
@@ -58,7 +58,7 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 
 ## My other projects 
 * Music Projects
-  * GASPEA - [Ser Quem Sou](https://www.youtube.com/watch?v=kGMe_rXcDOU&ab_channel=GASPEA)
+  * GASPEA - [Ser Quem Sou](https://www.youtube.com/watch?v=kGMe_rXcDOU&ab_channel=GASPEA) [](https://img.shields.io/youtube/views/kGMe_rXcDOU?style=social)
   * The Scoundrels (Next Door) - [No Offence](https://youtu.be/4XcOEYNk7R4)
 * Code Projects
   * My WebSite
@@ -75,4 +75,5 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 ```diff
 @@ "It's all talk until the code runs" - Ward Cunningham @@
 ```
+[](https://img.shields.io/github/followers/MrNameless10?style=social)
 
