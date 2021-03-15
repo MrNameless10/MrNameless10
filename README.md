@@ -57,6 +57,8 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 
 
 ## My other projects 
+* Tech
+  * Tickets for Calls [(Client)Tiago Paiva](https://github.com/MrNameless10/ChamadasAleatoriasBot-1)
 * Music Projects
   * GASPEA - [Ser Quem Sou](https://www.youtube.com/watch?v=kGMe_rXcDOU&ab_channel=GASPEA) [](https://img.shields.io/youtube/views/kGMe_rXcDOU?style=social)
   * The Scoundrels (Next Door) - [No Offence](https://youtu.be/4XcOEYNk7R4)
