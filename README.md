@@ -73,6 +73,10 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 * Instagram : [@miguelangelofreitass](https://www.instagram.com/miguelangelofreitass "@miguelangelofreitass")
 * WebSite : [miguelfreitas.online](https://miguelfreitas.online/ "Miguel Freitas Website")
 * Twitter : [@MikeFreitass](https://twitter.com/MikeFreitass "@MikeFreitass")
+* Discord : MikeÂngelo#6102
+
+## SUPPORT ME ❤
+[https://www.buymeacoffee.com/MikeFreitas](https://www.buymeacoffee.com/MikeFreitas "www.buymeacoffee.com/MikeFreitas")
 
 ```diff
 @@ "It's all talk until the code runs" - Ward Cunningham @@
