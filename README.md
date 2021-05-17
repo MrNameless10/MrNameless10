@@ -53,7 +53,7 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=blue)
 
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mrnameless10&count_private=true&show_icons=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNameless10&langs_count=5&layout=compact">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mrnameless10&count_private=true&theme=dark&show_icons=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNameless10&langs_count=5&theme=dark&layout=compact">
 
 
 ## My other projects 
