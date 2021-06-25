@@ -33,11 +33,19 @@ Here are some ideas to get you started:
 
 ## My college projects and solved exercises 🎓
 I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho), [@guedes](https://github.com/FrancesinhaMan), [@Carricossauro](https://github.com/Carricossauro), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan) on github
-### 1st year - 1st semester
-* Programação Funcional (Functional Programming) - Haskell - Exercises
-### 1st year - 2nd semester
-* Programação Imperativa (Imperative Programming) - C - Exercises
-* Laboratórios de Informática II - C - Exercises - [Project](https://github.com/MrNameless10/LA1-PL2-G07)
+
+
+|   1<sup>st</sup> year - 2<sup>st</sup> semester   |Language||| Partners |
+| :---         | :---:         |     :---:      |          :---: |          :---: |
+| Programação Imperativa| C         |Exercises| - | - |   
+| Laboratórios de Algoritmia I| C         |-| [Project](https://github.com/MrNameless10/LA1-PL2-G07) |   [@TomasCampinho](https://github.com/TomasCampinho), [@pedro74gomes](https://github.com/pedro74gomes)            |
+
+
+|   2<sup>st</sup> year - 2<sup>st</sup> semester   |Language||| Partners |
+| :---         | :---:         |     :---:      |          :---: |          :---: |
+| Calculo de Programas| hs         |  Exercises  | [Project](https://github.com/MrNameless10/Calculo-de-Programas) |   [@Carricossauro](https://github.com/Carricossauro)            |
+| Sistemas Operativos | C         |  Exercises  | [Project](https://github.com/MrNameless10/Projecto-SO) |   [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho)           |
+| Programação Orientada a Objetos | C         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@Carricossauro](https://github.com/Carricossauro), [@IvoLims](https://github.com/IvoLims)           |
 
 ### 2nd year - 2nd semester
 
