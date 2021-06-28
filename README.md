@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho), [@guedes](https://github.com/FrancesinhaMan), [@Carricossauro](https://github.com/Carricossauro), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan) on github
 
 
+|   1<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
+| :---         | :---:         |     :---:      |          :---: |          :---: |
+| Programação Funcional| hs         |[Exercises](https://github.com/MrNameless10/Programacao-Funcional)| - | - |   
+
+
 |   1<sup>st</sup> year - 2<sup>st</sup> semester   |Language||| Partners |
 | :---         | :---:         |     :---:      |          :---: |          :---: |
 | Programação Imperativa| C         |Exercises| - | - |   
