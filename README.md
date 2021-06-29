@@ -48,7 +48,7 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 | :---         | :---:         |     :---:      |          :---: |          :---: |
 | Calculo de Programas| hs         |  Exercises  | [Project](https://github.com/MrNameless10/Calculo-de-Programas) |   [@Carricossauro](https://github.com/Carricossauro)            |
 | Sistemas Operativos | C         |  Exercises  | [Project](https://github.com/MrNameless10/Projecto-SO) |   [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho)           |
-| Programação Orientada a Objetos | C         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@Carricossauro](https://github.com/Carricossauro), [@IvoLims](https://github.com/IvoLims)           |
+| Programação Orientada a Objetos | java         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@Carricossauro](https://github.com/Carricossauro), [@IvoLims](https://github.com/IvoLims)           |
 
 ### 2nd year - 2nd semester
 
