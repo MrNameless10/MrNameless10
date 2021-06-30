@@ -44,13 +44,20 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 | Laboratórios de Algoritmia I| C         |-| [Project](https://github.com/MrNameless10/LA1-PL2-G07) |   [@TomasCampinho](https://github.com/TomasCampinho), [@pedro74gomes](https://github.com/pedro74gomes)            |
 
 
+|   2<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
+| :---         | :---:         |     :---:      |          :---: |          :---: |
+| Sistemas de Comunicações e Redes| -         |  -  | [Project](https://github.com/MrNameless10/SCR) |   [@TomasCampinho](https://github.com/TomasCampinho), [FrancesinhaMan](https://github.com/FrancesinhaMan)            |
+| Sistemas Operativos | C         |  Exercises  | [Project](https://github.com/MrNameless10/Projecto-SO) |   [@quantik-git](https://github.com/quantik-git),            |
+| Programação Orientada a Objetos | java         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@Carricossauro](https://github.com/Carricossauro), [@IvoLims](https://github.com/IvoLims)           |
+
+
 |   2<sup>st</sup> year - 2<sup>st</sup> semester   |Language||| Partners |
 | :---         | :---:         |     :---:      |          :---: |          :---: |
 | Calculo de Programas| hs         |  Exercises  | [Project](https://github.com/MrNameless10/Calculo-de-Programas) |   [@Carricossauro](https://github.com/Carricossauro)            |
 | Sistemas Operativos | C         |  Exercises  | [Project](https://github.com/MrNameless10/Projecto-SO) |   [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho)           |
 | Programação Orientada a Objetos | java         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@Carricossauro](https://github.com/Carricossauro), [@IvoLims](https://github.com/IvoLims)           |
 
-### 2nd year - 2nd semester
+
 
 
 # My programming skills 💻
