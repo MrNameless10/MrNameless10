@@ -47,8 +47,6 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 |   2<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
 | :---         | :---:         |     :---:      |          :---: |          :---: |
 | Sistemas de Comunicações e Redes| -         |  -  | [Project](https://github.com/MrNameless10/SCR) |   [@TomasCampinho](https://github.com/TomasCampinho), [FrancesinhaMan](https://github.com/FrancesinhaMan)            |
-| Sistemas Operativos | C         |  Exercises  | [Project](https://github.com/MrNameless10/Projecto-SO) |   [@quantik-git](https://github.com/quantik-git),            |
-| Programação Orientada a Objetos | java         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@Carricossauro](https://github.com/Carricossauro), [@IvoLims](https://github.com/IvoLims)           |
 
 
 |   2<sup>st</sup> year - 2<sup>st</sup> semester   |Language||| Partners |
