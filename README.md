@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ## My college projects and solved exercises 🎓
-I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho), [@guedes](https://github.com/FrancesinhaMan), [@Carricossauro](https://github.com/Carricossauro), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan) on github
+I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@Carricossauro](https://github.com/Carricossauro), [@TomasCampinho](https://github.com/TomasCampinho), [@IvoLims](https://github.com/IvoLims), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan) on github
 
 
 |   1<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
@@ -46,7 +46,7 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 
 |   2<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
 | :---         | :---:         |     :---:      |          :---: |          :---: |
-| Sistemas de Comunicações e Redes| -         |  -  | [Project](https://github.com/MrNameless10/SCR) |   [@TomasCampinho](https://github.com/TomasCampinho), [FrancesinhaMan](https://github.com/FrancesinhaMan)            |
+| Sistemas de Comunicações e Redes| -         |  -  | [Project](https://github.com/MrNameless10/SCR) |   [@TomasCampinho](https://github.com/TomasCampinho), [@FrancesinhaMan](https://github.com/FrancesinhaMan)            |
 
 
 |   2<sup>st</sup> year - 2<sup>st</sup> semester   |Language||| Partners |
@@ -87,6 +87,7 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@T
 ## How to reach me 📫
 * E-mail : miguel.angelo.freitas@outlook.pt
 * Instagram : [@mike.storykeeper](https://www.instagram.com/mike.storykeeper "@mike.storykeeper")
+* LinkedIn : [Miguel Ângelo Freitas]https://www.linkedin.com/in/miguelangelofreitass/
 * WebSite : [miguelfreitas.online](https://miguelfreitas.online/ "Miguel Freitas Website")
 * Twitter : [@MikeFreitass](https://twitter.com/MikeFreitass "@MikeFreitass")
 * Discord : MikeÂngelo#6102
