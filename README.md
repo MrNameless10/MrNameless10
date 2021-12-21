@@ -6,11 +6,11 @@ Hi! 👋😊 I'm Miguel Ângelo and I'm a student at University of Minho, where 
 
 I was born and raised in Caldas das Taipas 🇵🇹, a small village in Guimarães, where I currently live. I study in Braga @ Uminho.
 
-## ![NECC logo](https://cdn.discordapp.com/avatars/782294405704581160/1cbe60e471f3c9cc4979479ca2ae5e24.png?size=16) I'm director of development department [@NECC](https://github.com/NECC) @ Uminho 
+## ![NECC logo](https://cdn.discordapp.com/avatars/782294405704581160/1cbe60e471f3c9cc4979479ca2ae5e24.png?size=32) I'm director of development department [@NECC](https://github.com/NECC) @ Uminho 
 
 Núcleo de Estudantes de Ciências da Computação [@NECC](https://github.com/NECC) is a group of students , volunteers, created in 2001 (formerly known as GEMCC) with the aim of helping and representing all undergraduate Computer Science students, from the first year to contact with the market of work. I decided to join [NECC] to help them and improve my self skills, like learning code, learning what type of code do you use in real life, trying to know what do you need to be a good Computer Science worker 🤖. Our community [HERE](http://bit.ly/LccDiscord).
 
-## ![CoderDojo logo](https://cdn.discordapp.com/avatars/764270424447778906/d859ccb4cba6347be4d62456f73a0ab7.webp?size=16) Mentor [@CoderDojo](https://github.com/coderdojobraga) 
+## ![CoderDojo logo](https://cdn.discordapp.com/avatars/764270424447778906/d859ccb4cba6347be4d62456f73a0ab7.webp?size=32) Mentor [@CoderDojo](https://github.com/coderdojobraga) 
 
 I am also part of the team at CoderDojo at Braga as Mentor, an open, non-profit, free movement which aims to teach programming to children and teenagers from 7 to 17.
 
