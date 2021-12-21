@@ -6,11 +6,27 @@ Hi! 👋😊 I'm Miguel Ângelo and I'm a student at University of Minho, where 
 
 I was born and raised in Caldas das Taipas 🇵🇹, a small village in Guimarães, where I currently live. I study in Braga @ Uminho.
 
-I also have a band called "GASPEA" where I'm the drummer, you can follow our work [Here](https://linktr.ee/gaspea "GASPEA linktree"), we have already went to Paredes de Coura to record.
+## ![NECC logo](https://cdn.discordapp.com/avatars/782294405704581160/1cbe60e471f3c9cc4979479ca2ae5e24.png?size=16) I'm director of development department [@NECC](https://github.com/NECC) @ Uminho 
 
-## I'm director of development department [@NECC](https://github.com/NECC) @ Uminho ![NECC logo](https://cdn.discordapp.com/avatars/782294405704581160/1cbe60e471f3c9cc4979479ca2ae5e24.png?size=64)
+Núcleo de Estudantes de Ciências da Computação [@NECC](https://github.com/NECC) is a group of students , volunteers, created in 2001 (formerly known as GEMCC) with the aim of helping and representing all undergraduate Computer Science students, from the first year to contact with the market of work. I decided to join [NECC] to help them and improve my self skills, like learning code, learning what type of code do you use in real life, trying to know what do you need to be a good Computer Science worker 🤖. Our community [HERE](http://bit.ly/LccDiscord).
 
-Núcleo de Estudantes de Ciências da Computação [NECC] is a group of students, volunteers, who represent and help all students of the Computer Science Degree course at the University of Minho. I'm trying to create a better community and doing my best to help new students facing new problems, so I decided to join [NECC] to help them and improve my self skills, like learning code, learning what type of code do you use in real life, trying to know what do you need to be a good Computer Science worker 🤖. I'm developer at [@NECC](https://github.com/NECC), you can join our community [HERE](http://bit.ly/DiscordLCC).
+## ![CoderDojo logo](https://cdn.discordapp.com/avatars/764270424447778906/d859ccb4cba6347be4d62456f73a0ab7.webp?size=16) Mentor [@CoderDojo](https://github.com/coderdojobraga) 
+
+I am also part of the team at CoderDojo at Braga as Mentor, an open, non-profit, free movement which aims to teach programming to children and teenagers from 7 to 17.
+
+## ![IASC logo](https://cdn.icon-icons.com/icons2/2699/PNG/32/nasa_logo_icon_170926.png) Citizen Scientist [@CoderDojo](https://github.com/coderdojobraga)
+
+I was privileged to participate in “The International Astronomical Search Collaboration” [(IASC)](http://iasc.cosmosearch.org/), a Science program that, in collaboration with NASA, Pan-STARRS, Observatory and Catalina Sky Survey Observatory, shares highly classified astronomical information for scientists around the world . Following the IASC I discovered new Main Belt asteroids and observed important objects close to Earth.
+
+## ![Music Logo](https://cdn.icon-icons.com/icons2/422/PNG/32/drummer1_41864.png) Drummer
+
+I'm a drummer in the band ["GASPEA"](https://linktr.ee/gaspea "GASPEA linktree"), a band selected as a resident band in the Escola do Rock program in Paredes de Coura, an initiative that invests in music production and creation, where we had the opportunity to produce and record our first single. In addition to what was my first band, I was a member of “The Scoundrels (Next door)” and part of ["Divine Roguery"](https://www.instagram.com/divineroguery/?hl=pt).
+
+## Founder and volunteer [Em Busca de Sorrisos](https://www.facebook.com/embuscadesorrisosesct/)
+
+Also during Secondary School, in collaboration with the Philosophy teacher, I founded a project “Em Busca de Sorrisos”, in order to bring happiness to our grandparents' generation, so that they don't feel alone, and demonstrate recognition for everything what they did and do for the youngest.
+
+
 
 
 <!--
@@ -30,7 +46,7 @@ Here are some ideas to get you started:
 
 
 ## My college projects and solved exercises 🎓
-I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@Carricossauro](https://github.com/Carricossauro), [@TomasCampinho](https://github.com/TomasCampinho), [@IvoLims](https://github.com/IvoLims), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan) on github
+I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@Carricossauro](https://github.com/Carricossauro), [@TomasCampinho](https://github.com/TomasCampinho), [@IvoLims](https://github.com/IvoLims), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan), [@nelsonmestevao](https://github.com//nelsonmestevao) on github
 
 
 |   1<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
@@ -53,20 +69,28 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 | :---         | :---:         |     :---:      |          :---: |          :---: |
 | Calculo de Programas| hs         |  Exercises  | [Project](https://github.com/MrNameless10/Calculo-de-Programas) |   [@Carricossauro](https://github.com/Carricossauro)            |
 | Sistemas Operativos | C         |  Exercises  | [Project](https://github.com/MrNameless10/Projecto-SO) |   [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho)           |
+| Laboratórios de Algoritmia II | Python         |  Exercises  | [Project](https://github.com/MrNameless10/LAII) |   [@FrancesinhaMan](https://github.com/FrancesinhaMan)           |
 | Programação Orientada a Objetos | java         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@Carricossauro](https://github.com/Carricossauro), [@IvoLims](https://github.com/IvoLims)           |
+
+
+|   3<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
+| :---         | :---:         |     :---:      |          :---: |          :---: |
+| Lógica Computacional| Python         |  -  | [Project](https://github.com/MrNameless10/LC) |   [@TomasCampinho](https://github.com/TomasCampinho)   |
+| Processamento de Linguangens e Compiladores | Python         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@TomasCampinho](https://github.com/TomasCampinho)            |
 
 
 
 
 # My programming skills 💻
-
-![](https://img.shields.io/badge/Code-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=blue)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrnameless10&count_private=true&theme=dark&show_icons=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNameless10&langs_count=5&theme=dark&layout=compact">
@@ -77,7 +101,8 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
   * Tickets for Calls [(Client)Tiago Paiva](https://github.com/MrNameless10/ChamadasAleatoriasBot-1)
 * Music Projects
   * GASPEA - [Ser Quem Sou](https://www.youtube.com/watch?v=kGMe_rXcDOU&ab_channel=GASPEA) [](https://img.shields.io/youtube/views/kGMe_rXcDOU?style=social)
-  * The Scoundrels (Next Door) - [No Offence](https://youtu.be/4XcOEYNk7R4)
+  * The Scoundrels (Next Door)
+  * Divine Roguery
 * Code Projects
   * [My WebSite](https://miguelfreitas.online/ "Miguel Freitas Website")
 * Volunteering
@@ -85,15 +110,16 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 
 
 ## How to reach me 📫
-* E-mail : miguel.angelo.freitas@outlook.pt
-* Instagram : [@mike.storykeeper](https://www.instagram.com/mike.storykeeper "@mike.storykeeper")
-* LinkedIn : [Miguel Ângelo Freitas]https://www.linkedin.com/in/miguelangelofreitass/
-* WebSite : [miguelfreitas.online](https://miguelfreitas.online/ "Miguel Freitas Website")
-* Twitter : [@MikeFreitass](https://twitter.com/MikeFreitass "@MikeFreitass")
-* Discord : MikeÂngelo#6102
+[![LinkedIn badge](https://img.shields.io/badge/-miguelangelofreitass-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguelangelofreitass/)
+[![Instagram badge](https://img.shields.io/badge/@mike.storykeeper-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mike.storykeeper)
+[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:miguel.angelo.freitas@outlook.pt)
+[![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](MikeÂngelo#6102)
+[![Twitter badge](https://img.shields.io/badge/@MikeFreitass-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MikeFreitass)
+[![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/18k0hzBIhsXeUakWMd91Lh?si=k6ujbbN7RXCjmkMfC2UqCA)
 
-## SUPPORT ME ❤
-[https://www.buymeacoffee.com/MikeFreitas](https://www.buymeacoffee.com/MikeFreitas "www.buymeacoffee.com/MikeFreitas")
+[![Website badge](https://img.shields.io/badge/https://miguelfreitas.online-0A0A0A?style=for-the-badge&logo=miguelangelofreitass&logoColor=white)](https://miguelfreitas.online/)
+
+
 
 ```diff
 @@ "It's all talk until the code runs" - Ward Cunningham @@
