@@ -14,7 +14,7 @@ Núcleo de Estudantes de Ciências da Computação [@NECC](https://github.com/NE
 
 I am also part of the team at CoderDojo at Braga as Mentor, an open, non-profit, free movement which aims to teach programming to children and teenagers from 7 to 17.
 
-## ![IASC logo](https://cdn.icon-icons.com/icons2/2699/PNG/32/nasa_logo_icon_170926.png) Citizen Scientist [@CoderDojo](https://github.com/coderdojobraga)
+## ![IASC logo](https://cdn.icon-icons.com/icons2/2699/PNG/32/nasa_logo_icon_170926.png) Citizen Scientist [(IASC)](http://iasc.cosmosearch.org/)
 
 I was privileged to participate in “The International Astronomical Search Collaboration” [(IASC)](http://iasc.cosmosearch.org/), a Science program that, in collaboration with NASA, Pan-STARRS, Observatory and Catalina Sky Survey Observatory, shares highly classified astronomical information for scientists around the world . Following the IASC I discovered new Main Belt asteroids and observed important objects close to Earth.
 
