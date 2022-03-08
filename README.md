@@ -12,7 +12,7 @@ Núcleo de Estudantes de Ciências da Computação [@NECC](https://github.com/NE
 
 ## ![CoderDojo logo](https://cdn.discordapp.com/avatars/764270424447778906/d859ccb4cba6347be4d62456f73a0ab7.webp?size=32) Mentor [@CoderDojo](https://github.com/coderdojobraga) 
 
-I am also part of the team at CoderDojo at Braga as Mentor, an open, non-profit, free movement which aims to teach programming to children and teenagers from 7 to 17.
+I am also part of the team at CoderDojo at Braga as Mentor, an open, non-profit, free movement which aims to teach programming to children and teenagers from 7 to 17. [CoderDojo-Projects by me for kids](https://github.com/MrNameless10/CoderDojo-Projects)
 
 ## ![IASC logo](https://cdn.icon-icons.com/icons2/2699/PNG/32/nasa_logo_icon_170926.png) Citizen Scientist [(IASC)](http://iasc.cosmosearch.org/)
 
@@ -69,7 +69,7 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 | :---         | :---:         |     :---:      |          :---: |          :---: |
 | Calculo de Programas| hs         |  Exercises  | [Project](https://github.com/MrNameless10/Calculo-de-Programas) |   [@Carricossauro](https://github.com/Carricossauro)            |
 | Sistemas Operativos | C         |  Exercises  | [Project](https://github.com/MrNameless10/Projecto-SO) |   [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho)           |
-| Laboratórios de Algoritmia II | Python         |  Exercises  | [Project](https://github.com/MrNameless10/LAII) |   [@FrancesinhaMan](https://github.com/FrancesinhaMan)           |
+| Laboratórios de Algoritmia II | Python         |  [Exercises](https://github.com/MrNameless10/LA-II)  | - |   [@FrancesinhaMan](https://github.com/FrancesinhaMan)           |
 | Programação Orientada a Objetos | java         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@Carricossauro](https://github.com/Carricossauro), [@IvoLims](https://github.com/IvoLims)           |
 
 
@@ -79,6 +79,12 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 | Processamento de Linguangens e Compiladores | Python         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@TomasCampinho](https://github.com/TomasCampinho)            |
 
 
+
+# :octocat: Code Projects
+  * [My WebSite](https://miguelfreitas.online/ "Miguel Freitas Website") - Start learning HTML & CSS
+  * [CoderDojo](https://github.com/MrNameless10/CoderDojo-Projects) - Project ideas to teach kids to code in python
+  * [Hackathon](https://github.com/MrNameless10/hackathon-sei22) - Partners: 💕: [@quantik-git](https://github.com/quantik-git), [@Carricossauro](https://github.com/Carricossauro), [@inespresa](https://github.com/inespresa), [@SimaoQuintela](https://github.com/SimaoQuintela).
+  * [(Client)Tiago Paiva](https://github.com/MrNameless10/ChamadasAleatoriasBot-1) - Tickets for Calls 
 
 
 # My programming skills 💻
@@ -97,14 +103,10 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 
 
 ## My other projects 
-* Tech
-  * Tickets for Calls [(Client)Tiago Paiva](https://github.com/MrNameless10/ChamadasAleatoriasBot-1)
 * Music Projects
   * GASPEA - [Ser Quem Sou](https://www.youtube.com/watch?v=kGMe_rXcDOU&ab_channel=GASPEA) [](https://img.shields.io/youtube/views/kGMe_rXcDOU?style=social)
   * The Scoundrels (Next Door)
   * Divine Roguery
-* Code Projects
-  * [My WebSite](https://miguelfreitas.online/ "Miguel Freitas Website")
 * Volunteering
   * [Em Busca de Sorrisos](https://www.facebook.com/embuscadesorrisosesct/)
 
