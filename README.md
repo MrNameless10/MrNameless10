@@ -1,11 +1,23 @@
-# Miguel Ângelo Freitas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+<p align="center">
+<a href="https://github.com/NECC" target="NECC">
+<img src="https://cdn.discordapp.com/attachments/769729892601692182/982033158054772788/banner_for_github.png" alt="Buy Me A Coffee"></a>
+</p>
+
+<div style="display: inline_block"><br>
+  <a href="https://github.com/MrNameless10">
+  <img align="right" alt="mike-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/769729892601692182/945820005285634068/com_barbixa_mais_baixo_e_sem_fundo.png?width=676&height=676">
+</div>
+
+# Miguel Ângelo Freitas
 
 Hi! 👋😊 I'm Miguel Ângelo and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
-
+<!--
 ## About me 👀
 
-I was born and raised in Caldas das Taipas 🇵🇹, a small village in Guimarães, where I currently live. I study in Braga @ Uminho.
-
+I was born and raised in  🇵🇹, a small village , where I currently live. I study in Braga @ Uminho.
+-->
 ## ![NECC logo](https://cdn.discordapp.com/avatars/782294405704581160/1cbe60e471f3c9cc4979479ca2ae5e24.png?size=32) I'm director of development department [@NECC](https://github.com/NECC) @ Uminho 
 
 Núcleo de Estudantes de Ciências da Computação [@NECC](https://github.com/NECC) is a group of students , volunteers, created in 2001 (formerly known as GEMCC) with the aim of helping and representing all undergraduate Computer Science students, from the first year to contact with the market of work. I decided to join [NECC] to help them and improve my self skills, like learning code, learning what type of code do you use in real life, trying to know what do you need to be a good Computer Science worker 🤖. Our community [HERE](http://bit.ly/LccDiscord).
@@ -46,7 +58,7 @@ Here are some ideas to get you started:
 
 
 ## My college projects and solved exercises 🎓
-I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@Carricossauro](https://github.com/Carricossauro), [@TomasCampinho](https://github.com/TomasCampinho), [@IvoLims](https://github.com/IvoLims), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan), [@nelsonmestevao](https://github.com//nelsonmestevao) on github
+I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@Carricossauro](https://github.com/Carricossauro), [@TomasCampinho](https://github.com/TomasCampinho), [@IvoLims](https://github.com/IvoLims), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan), [@nelsonmestevao](https://github.com//nelsonmestevao), [@feliciofilipe](https://github.com/feliciofilipe), [@laraujo7](https://github.com/laraujo7) on github
 
 
 |   1<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
@@ -69,7 +81,7 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 | :---         | :---:         |     :---:      |          :---: |          :---: |
 | Calculo de Programas| hs         |  Exercises  | [Project](https://github.com/MrNameless10/Calculo-de-Programas) |   [@Carricossauro](https://github.com/Carricossauro)            |
 | Sistemas Operativos | C         |  Exercises  | [Project](https://github.com/MrNameless10/Projecto-SO) |   [@quantik-git](https://github.com/quantik-git), [@TomasCampinho](https://github.com/TomasCampinho)           |
-| Laboratórios de Algoritmia II | Python         |  [Exercises](https://github.com/MrNameless10/LA-II)  | - |   [@FrancesinhaMan](https://github.com/FrancesinhaMan)           |
+| Laboratórios de Algoritmia II | Python         |  [Exercises](https://github.com/MrNameless10/LA-II)  | - |   [@HugoRochartk](https://github.com/HugoRochartk)           |
 | Programação Orientada a Objetos | java         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@Carricossauro](https://github.com/Carricossauro), [@IvoLims](https://github.com/IvoLims)           |
 
 
@@ -98,9 +110,9 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-
+<p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrnameless10&count_private=true&theme=dark&show_icons=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNameless10&langs_count=5&theme=dark&layout=compact">
-
+</p>
 
 ## My other projects 
 * Music Projects
@@ -119,8 +131,9 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 [![Twitter badge](https://img.shields.io/badge/@MikeFreitass-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MikeFreitass)
 [![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/18k0hzBIhsXeUakWMd91Lh?si=k6ujbbN7RXCjmkMfC2UqCA)
 
+<!--
 [![Website badge](https://img.shields.io/badge/https://miguelfreitas.online-0A0A0A?style=for-the-badge&logo=miguelangelofreitass&logoColor=white)](https://miguelfreitas.online/)
-
+-->
 
 
 ```diff
