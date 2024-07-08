@@ -2,12 +2,12 @@
 
 <p align="center">
 <a href="https://github.com/NECC" target="NECC">
-<img src="https://cdn.discordapp.com/attachments/769729892601692182/982033158054772788/banner_for_github.png" alt="Buy Me A Coffee"></a>
+<img src="https://pbs.twimg.com/profile_banners/1727419847565254656/1720393879/1500x500" alt="Banner-MrNameless-NFTS"></a>
 </p>
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/MrNameless10">
-  <img align="right" alt="mike-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/769729892601692182/945820005285634068/com_barbixa_mais_baixo_e_sem_fundo.png?width=676&height=676">
+  <img align="right" alt="mike-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1804069549110648833/NB4RFvXR_400x400.jpg">
 </div>
 
 # Miguel Ângelo Freitas
