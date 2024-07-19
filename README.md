@@ -88,11 +88,18 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 |   3<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
 | :---         | :---:         |     :---:      |          :---: |          :---: |
 | Lógica Computacional| Python         |  -  | [Project](https://github.com/MrNameless10/LC) |   [@TomasCampinho](https://github.com/TomasCampinho)   |
+| Base De Dados| SQL         |  -  | [Project](https://github.com/MrNameless10/BD) |   [@SimaoQuintela](https://github.com/SimaoQuintela), [@HugoRochartk](https://github.com/HugoRochartk)   |
 | Processamento de Linguangens e Compiladores | Python         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@TomasCampinho](https://github.com/TomasCampinho)            |
 
 |   3<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
 | :---         | :---:         |     :---:      |          :---: |          :---: |
 | Interacção e Concorrência | Python         |  -  | [Project](https://github.com/MrNameless10/Reactive-Quantum-Systems-IC-UM) |  -  |
+| Computação Gráfica | C++         |  -  | [Project](https://github.com/quantik-git/Projecto-CG) |  [@quantik-git](https://github.com/quantik-git), [@SimaoQuintela](https://github.com/SimaoQuintela), [@pedromiguelf2001](https://github.com/pedromiguelf2001)  |
+| NECChangeSolver | Python/Next       |  -  | [Project](https://github.com/SimaoQuintela/NECChange-Solver) |   [@SimaoQuintela](https://github.com/SimaoQuintela), [@HugoRochartk](https://github.com/HugoRochartk)  |
+
+
+
+
 
 
 
