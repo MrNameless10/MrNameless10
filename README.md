@@ -90,6 +90,10 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 | Lógica Computacional| Python         |  -  | [Project](https://github.com/MrNameless10/LC) |   [@TomasCampinho](https://github.com/TomasCampinho)   |
 | Processamento de Linguangens e Compiladores | Python         |  Exercises  | [Project](https://github.com/MrNameless10/POO-FM) |   [@TomasCampinho](https://github.com/TomasCampinho)            |
 
+|   3<sup>st</sup> year - 1<sup>st</sup> semester   |Language||| Partners |
+| :---         | :---:         |     :---:      |          :---: |          :---: |
+| Interacção e Concorrência | Python         |  -  | [Project](https://github.com/MrNameless10/Reactive-Quantum-Systems-IC-UM) |  -  |
+
 
 
 # :octocat: Code Projects
