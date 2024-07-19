@@ -1,23 +1,28 @@
 
 
 <p align="center">
-<a href="https://github.com/NECC" target="NECC">
-<img src="https://pbs.twimg.com/profile_banners/1727419847565254656/1720393879/1500x500" alt="Banner-MrNameless-NFTS"></a>
+  <a href="https://github.com/NECC" target="_blank">
+    <img src="https://pbs.twimg.com/profile_banners/1727419847565254656/1720393879/1500x500" alt="Banner - MrNameless - NFTS">
+  </a>
 </p>
 
-<div style="display: inline_block"><br>
+<p align="center">
   <a href="https://github.com/MrNameless10">
-  <img align="right" alt="mike-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1804069549110648833/NB4RFvXR_400x400.jpg">
-</div>
+    <img align="right" alt="Miguel's Picture" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1804069549110648833/NB4RFvXR_400x400.jpg">
+  </a>
+</p>
 
 # Miguel Ângelo Freitas
+Welcome to my GitHub! 👋😊 I'm Miguel, a Research and Development Engineer at DTx, focused on digital and cyber-physical systems in the aeronautical sector. I blend a strong background in Computer Science with a passion for technological innovation, community engagement, music, and the burgeoning field of Web3 and cryptocurrencies.
 
-Hi! 👋😊 I'm Miguel Ângelo and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
 <!--
+Hi! 👋😊 I'm Miguel Ângelo and I'm a student at University of Minho, where I'm getting a degree in Computer Science 👨‍💻.
+
 ## About me 👀
 
 I was born and raised in  🇵🇹, a small village , where I currently live. I study in Braga @ Uminho.
 -->
+<!--
 ## ![NECC logo](https://cdn.discordapp.com/avatars/782294405704581160/1cbe60e471f3c9cc4979479ca2ae5e24.png?size=32) I'm director of development department [@NECC](https://github.com/NECC) @ Uminho 
 
 Núcleo de Estudantes de Ciências da Computação [@NECC](https://github.com/NECC) is a group of students , volunteers, created in 2001 (formerly known as GEMCC) with the aim of helping and representing all undergraduate Computer Science students, from the first year to contact with the market of work. I decided to join [NECC] to help them and improve my self skills, like learning code, learning what type of code do you use in real life, trying to know what do you need to be a good Computer Science worker 🤖. Our community [HERE](http://bit.ly/LccDiscord).
@@ -56,8 +61,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🖥️ Current Role
 
-## My college projects and solved exercises 🎓
+- **Research and Development Engineer** at [DTx - Digital Transformation CoLAB](https://dtxcolab.pt/)
+  - Part of the multidisciplinary team on the "Aero.Next Portugal" project.
+  - Developing web and desktop applications, managing databases, and integrating digital transformations within the aeronautical sector.
+
+## 🔭 Past Experiences
+
+- **Director of the Development Department** at [NECC (Núcleo de Estudantes de Ciências da Computação)](https://github.com/NECC) - Led initiatives to bridge academia and industry, enhancing the coding skills and market readiness of CS students.
+- **Mentor** at [CoderDojo Braga](https://github.com/coderdojobraga) - Teaching programming to children and teenagers, making technology accessible and fun.
+
+## 🌐 Web3 and Cryptocurrency
+
+- **Hobbyist and Developer** - Diving deep into the technical aspects of Web3 and blockchain technology.
+- **Building on Solana** - Actively developing projects and exploring decentralized applications on the Solana blockchain as a personal interest.
+
+## 🌌 Astronomy and Science
+
+- Participated in “The International Astronomical Search Collaboration” [(IASC)](http://iasc.cosmosearch.org/) with NASA, discovering new Main Belt asteroids.
+
+## 🥁 Music
+
+- Drummer for ["GASPEA"](https://linktr.ee/gaspea) - Recorded our first single as part of the Paredes de Coura program.
+- Former member of "The Scoundrels (Next door)" and ["Divine Roguery"](https://www.instagram.com/divineroguery/?hl=pt).
+
+
+
+## 🎓 Academics
 I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@Carricossauro](https://github.com/Carricossauro), [@TomasCampinho](https://github.com/TomasCampinho), [@IvoLims](https://github.com/IvoLims), [@inespresa](https://github.com/inespresa), [@RisingFisan](https://github.com/RisingFisan), [@nelsonmestevao](https://github.com//nelsonmestevao), [@feliciofilipe](https://github.com/feliciofilipe), [@laraujo7](https://github.com/laraujo7) on github
 
 
@@ -102,13 +133,13 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 
 
 
-
+<!--
 # :octocat: Code Projects
   * [My WebSite](https://miguelfreitas.online/ "Miguel Freitas Website") - Start learning HTML & CSS
   * [CoderDojo](https://github.com/MrNameless10/CoderDojo-Projects) - Project ideas to teach kids to code in python
   * [Hackathon](https://github.com/MrNameless10/hackathon-sei22) - Partners: 💕: [@quantik-git](https://github.com/quantik-git), [@Carricossauro](https://github.com/Carricossauro), [@inespresa](https://github.com/inespresa), [@SimaoQuintela](https://github.com/SimaoQuintela).
   * [(Client)Tiago Paiva](https://github.com/MrNameless10/ChamadasAleatoriasBot-1) - Tickets for Calls 
-
+-->
 
 # My programming skills 💻
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -124,7 +155,7 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrnameless10&count_private=true&theme=dark&show_icons=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNameless10&langs_count=5&theme=dark&layout=compact">
 </p>
-
+<!--
 ## My other projects 
 * Music Projects
   * GASPEA - [Ser Quem Sou](https://www.youtube.com/watch?v=kGMe_rXcDOU&ab_channel=GASPEA) [](https://img.shields.io/youtube/views/kGMe_rXcDOU?style=social)
@@ -132,14 +163,17 @@ I really recommend to follow [@quantik-git](https://github.com/quantik-git), [@C
   * Divine Roguery
 * Volunteering
   * [Em Busca de Sorrisos](https://www.facebook.com/embuscadesorrisosesct/)
+  -->
 
 
 ## How to reach me 📫
-[![LinkedIn badge](https://img.shields.io/badge/-miguelangelofreitass-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguelangelofreitass/)
-[![Instagram badge](https://img.shields.io/badge/@mike.storykeeper-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mike.storykeeper)
-[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:miguel.angelo.freitas@outlook.pt)
-[![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](MikeÂngelo#6102)
-[![Twitter badge](https://img.shields.io/badge/@MikeFreitass-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MikeFreitass)
+## 🌐 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/-miguelangelofreitass-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguelangelofreitass/)
+[![Instagram](https://img.shields.io/badge/@mike.storykeeper-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mike.storykeeper)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:miguel.angelo.freitas@outlook.pt)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](miguelangelofreitas#0)
+[![Twitter](https://img.shields.io/badge/@MikeFreitass-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xMrNameless)
 [![Spotify badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/18k0hzBIhsXeUakWMd91Lh?si=k6ujbbN7RXCjmkMfC2UqCA)
 
 <!--
